@@ -1,0 +1,16 @@
+Package: krcad
+Title: Korean Congress Asset Dataset from `opengirok`
+Version: 0.0.0.9000
+Authors@R: person(given = "Chanyub",
+             family = "Park",
+             role = c("aut","cre"),
+             email = "mrchypark@gmail.com",
+             comment = c(ORCID = "0000-0001-6474-2570"))
+Description: Korean congress asset dataset from 2016 to 2022.
+            All effort by <https://www.opengirok.or.kr/>
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: 
+    tibble
